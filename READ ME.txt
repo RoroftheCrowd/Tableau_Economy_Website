@@ -1,0 +1,10 @@
+In order to view the website simply click on the index.html file
+
+If you're experienceing a problem with the tableau sheet on the web site (sign in panel)
+you can simply view the sheets and dashboard on the file Economics Tableau.
+
+Login Details:
+
+G00312759@gmit.ie (Username)
+
+Shadowhider1 (Password)
